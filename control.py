@@ -1,6 +1,6 @@
 import numpy as np
-from nbb import AI1,make_next_move
-from sb import AI
+from ai_expert import AI1,make_next_move
+from ai_basic import AI
 import random
 
 COLOR_BLACK = -1
